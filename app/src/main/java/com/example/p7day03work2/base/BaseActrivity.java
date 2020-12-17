@@ -5,7 +5,7 @@ import android.os.Bundle;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-public abstract class BaseActrivity<T> extends AppCompatActivity {
+public abstract class BaseActrivity<T extends BasePresent> extends AppCompatActivity implements BaseView{
   protected T presenter;
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -13,6 +13,7 @@ public abstract class BaseActrivity<T> extends AppCompatActivity {
         setContentView(getDataId());
         if(presenter==null){
             presenter=getPresenter();
+            presenter.attach(this);
         }
         initData();
         initView();

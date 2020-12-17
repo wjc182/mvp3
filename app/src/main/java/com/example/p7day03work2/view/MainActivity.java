@@ -43,7 +43,7 @@ public class MainActivity extends BaseActrivity<PresenterImi> implements MainCon
 
     @Override
     protected PresenterImi getPresenter() {
-        return new PresenterImi(this);
+        return new PresenterImi();
     }
 
     @Override

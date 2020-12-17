@@ -1,5 +1,7 @@
 package com.example.p7day03work2.contract;
 
+import com.example.p7day03work2.base.BasePresent;
+import com.example.p7day03work2.base.BaseView;
 import com.example.p7day03work2.bean.JavaBean;
 import com.example.p7day03work2.util.CallBack;
 
@@ -13,7 +15,7 @@ public class MainContract {
       void pre();
     }
 
-    public interface IView{
+    public interface IView extends BaseView {
         void ok(JavaBean javaBean);
 
         void no(String error);
