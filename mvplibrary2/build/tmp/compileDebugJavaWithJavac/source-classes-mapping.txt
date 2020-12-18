@@ -1,0 +1,21 @@
+com/example/mvplibrary2/base/BasePresent.java
+ com.example.mvplibrary2.base.BasePresent
+com/example/mvplibrary2/BuildConfig.java
+ com.example.mvplibrary2.BuildConfig
+com/example/mvplibrary2/base/BaseView.java
+ com.example.mvplibrary2.base.BaseView
+com/example/mvplibrary2/Utils/NextWorkRetorfit.java
+ com.example.mvplibrary2.Utils.NextWorkRetorfit
+ com.example.mvplibrary2.Utils.NextWorkRetorfit$1
+com/example/mvplibrary2/Utils/ApiService.java
+ com.example.mvplibrary2.Utils.ApiService
+com/example/mvplibrary2/Utils/URLConnect.java
+ com.example.mvplibrary2.Utils.URLConnect
+com/example/mvplibrary2/base/BaseModel.java
+ com.example.mvplibrary2.base.BaseModel
+com/example/mvplibrary2/Utils/CallBack.java
+ com.example.mvplibrary2.Utils.CallBack
+com/example/mvplibrary2/Utils/Imodel.java
+ com.example.mvplibrary2.Utils.Imodel
+com/example/mvplibrary2/base/BaseActrivity.java
+ com.example.mvplibrary2.base.BaseActrivity

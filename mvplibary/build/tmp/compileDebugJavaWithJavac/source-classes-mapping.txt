@@ -1,0 +1,21 @@
+com/example/mvplibary/utils/NextWorkRetotfit.java
+ com.example.mvplibary.utils.NextWorkRetotfit
+ com.example.mvplibary.utils.NextWorkRetotfit$1
+com/example/mvplibary/base/BasePresenter.java
+ com.example.mvplibary.base.BasePresenter
+com/example/mvplibary/utils/CallBack.java
+ com.example.mvplibary.utils.CallBack
+com/example/mvplibary/BuildConfig.java
+ com.example.mvplibary.BuildConfig
+com/example/mvplibary/base/BaseView.java
+ com.example.mvplibary.base.BaseView
+com/example/mvplibary/utils/URLNextWork.java
+ com.example.mvplibary.utils.URLNextWork
+com/example/mvplibary/base/BaseFragment.java
+ com.example.mvplibary.base.BaseFragment
+com/example/mvplibary/utils/IModel.java
+ com.example.mvplibary.utils.IModel
+com/example/mvplibary/base/BaseModel.java
+ com.example.mvplibary.base.BaseModel
+com/example/mvplibary/utils/ApiService.java
+ com.example.mvplibary.utils.ApiService

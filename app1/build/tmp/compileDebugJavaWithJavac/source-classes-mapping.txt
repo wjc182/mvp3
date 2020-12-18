@@ -1,0 +1,26 @@
+com/example/app1/bean/JavaBean.java
+ com.example.app1.bean.JavaBean
+ com.example.app1.bean.JavaBean$ResultsDTO
+com/example/app1/contract/MainContract.java
+ com.example.app1.contract.MainContract
+ com.example.app1.contract.MainContract$IModel
+ com.example.app1.contract.MainContract$IPresenter
+ com.example.app1.contract.MainContract$IView
+com/example/app1/fragment/BlankFragment.java
+ com.example.app1.fragment.BlankFragment
+com/example/app1/fragment/HomeFragment.java
+ com.example.app1.fragment.HomeFragment
+com/example/app1/MainActivity.java
+ com.example.app1.MainActivity
+com/example/app1/presenter/PresenterImi.java
+ com.example.app1.presenter.PresenterImi
+ com.example.app1.presenter.PresenterImi$1
+com/example/app1/adapter/Myadafel.java
+ com.example.app1.adapter.Myadafel
+com/example/app1/adapter/MyAdafel1.java
+ com.example.app1.adapter.MyAdafel1
+ com.example.app1.adapter.MyAdafel1$ViewHolder
+com/example/app1/BuildConfig.java
+ com.example.app1.BuildConfig
+com/example/app1/model/ModelImp.java
+ com.example.app1.model.ModelImp
